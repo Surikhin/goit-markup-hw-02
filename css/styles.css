@@ -32,9 +32,6 @@ color: #2E2F42;
 .nav-link:hover,.nav-link:focus {
     color: #404bbf;
 }
-.nav-link:focus {
-    color: #404bbf;
-}
 
 .hiro-section {
     background-color: #2e2f42;
@@ -54,7 +51,6 @@ color: #2E2F42;
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    padding: 16px 32px;
     
 }
 .hiro-button:hover, .hiro-button:focus {
@@ -71,4 +67,50 @@ color: #2E2F42;
 }
 .adres-emtel:hover, .adres-emtel:focus {
 color: #404bbf;
+}
+.section-h2-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.section-h2-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.section-team {
+    background-color: #F4F4FD;
+}
+.section-team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.team-li {
+    background-color: #FFFFFF;
+}
+.team-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.team-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.section-portfolio {
+    font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2e2f42;
 }
