@@ -68,14 +68,14 @@ color: #2E2F42;
 .adres-emtel:hover, .adres-emtel:focus {
 color: #404bbf;
 }
-.section-h2-title {
+.section-h-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section-h2-text {
+.section-h-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -124,5 +124,17 @@ color: #404bbf;
 }
 .portfolio-text {
     line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
+.logo-studio-footer {
+    color: #f4f4fd;
+}
+.footer-text {
+    line-height: 1.5;
+    color: #F4F4FD;
     letter-spacing: 0.02em;
 }
